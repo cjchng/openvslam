@@ -2,6 +2,8 @@
 
 ## 相機校準
 
+可以使用OpenCV的方法校準
+
 - How to Calibrate a Monocular Camera(單鏡頭相機)
 
   - <http://wiki.ros.org/camera_calibration/Tutorials/MonocularCalibration>
@@ -16,7 +18,15 @@
 
 - <https://github.com/Taka-Kazu/openvslam/tree/add-ros-dockerfile>
 
-## OpenVSLAM 支持
+## OpenVSLAM
 
 - dbow2
+  - <https://github.com/shinsumicco/DBoW2>
 - fbow
+  - <https://github.com/rmsalinas/fbow>
+
+## openvslam cuda
+
+## USB攝像機實時計算
+
+- <https://github.com/xdspacelab/openvslam/blob/master/example/run_camera_localization.cc>
